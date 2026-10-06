@@ -1,0 +1,13 @@
+StudentID,Gender,StudyHours,Attendance(%),Marks
+1,Female,4,90,82.0
+2,Male,3,82,70.0
+3,Female,5,95,88.0
+4,Male,2,78,
+5,Female,6,92,91.0
+6,Male,4,85,68.0
+7,Female,7,96,95.0
+8,Male,3,80,72.0
+9,Female,5,88,
+10,Male,2,79,65.0
+11,Female,6,91,84.0
+11,Female,6,91,84.0
